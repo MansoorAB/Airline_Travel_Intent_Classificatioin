@@ -1,0 +1,4 @@
+distilbert_atis_intent_classifier.zip
+requirements-mini.txt
+colab requirements.txt
+prediction_service/distilbert_atis_intent_classifier
